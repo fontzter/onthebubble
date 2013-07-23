@@ -1,0 +1,8 @@
+.car { width: 150px; text-align: left; height: 20px; margin: 1px; }
+.car span { float: right; }
+
+
+#cars { background-color: #7EA7D8; padding: 5px; }
+#notracing { background-color: #F6989D; padding: 5px; }
+#pending { background-color: #FFF79A; padding: 5px; }
+#racing { background-color: #C4DF9B; padding: 5px; }

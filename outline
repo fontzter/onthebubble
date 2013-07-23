@@ -1,0 +1,4 @@
+Load w/o js
+inspect danicas car
+show dom tree from there
+add this to console and explain it $(*).click(function(){ console.log(evt.currentTarget);});
